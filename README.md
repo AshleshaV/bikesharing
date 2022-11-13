@@ -1,6 +1,8 @@
 # NYC_Citibike_Challenge
 
-[link to dashboard](https://public.tableau.com/app/profile/ashlesha6702/viz/NYCCitibikeChallenge_16683045169040/NYCCitibikeChallengeDashboard?publish=yes)
+[link to NYC citibike dashboard](https://public.tableau.com/app/profile/ashlesha6702/viz/NYCCitibikeChallenge_16683045169040/NYCCitibikeChallengeDashboard?publish=yes)
+
+[link to NYC citibike challenge story](https://public.tableau.com/app/profile/ashlesha6702/viz/NYCCitibikeChallengestory/NYCCitibikeStory?publish=yes)
 ## Overview of the analysis: 
 The purpose of this analysis is to study the NYC Citibike data(August 2019) to give insights to start a similar type of bike
 share business in Des Moines, Iowa. Using Tableau for analysis results as follows:
