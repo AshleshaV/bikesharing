@@ -1,6 +1,6 @@
 # NYC_Citibike_Challenge
 
-[link to NYC citibike dashboard](https://public.tableau.com/app/profile/ashlesha6702/viz/NYCCitibikeChallenge_16683045169040/NYCCitibikeChallengeDashboard?publish=yes)
+[link to NYC citibike dashboard](https://public.tableau.com/authoring/NYCCitibikeChallenge_16683045169040/NYCCitibikeChallengeDashboard#1)
 
 [link to NYC citibike challenge story](https://public.tableau.com/app/profile/ashlesha6702/viz/NYCCitibikeChallengestory/NYCCitibikeStory?publish=yes)
 ## Overview of the analysis: 
